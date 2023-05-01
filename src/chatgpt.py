@@ -77,7 +77,7 @@ async def chatgpt(message: types.Message):
     A handler to process the user's input and generate a response using the chatGPT API.
     """
     print(f">>> USER: \n\t{message.text}")
-    p
+    
     response = openai.ChatCompletion.create(
         model = MODEL_NAME,
         messages = [
