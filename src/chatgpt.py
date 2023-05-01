@@ -20,7 +20,8 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 # Create a reference object to store the previous response
 reference = Reference()
 
-# Bot token can be obtained via https://t.me/BotFahter
+# Bot token can be obtained via https://t.me/BotFahter and go to /newbot
+
 TOKEN = os.getenv("TOKEN")
 
 # Model used in chatGPT
