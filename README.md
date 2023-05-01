@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/PallaviKharbanda/chatGPT-Telegram-bot/blob/[main]/chatgpt_telegram_bot.png?raw=true)
+![alt text](https://github.com/PallaviKharbanda/chatGPT-Telegram-bot/blob/[main]/Chatgpt_telegram_bot.png?raw=true)
 
 
 #conda init command gives base environment
