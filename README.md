@@ -1,11 +1,6 @@
-# chatGPT-Telegram-bot/workspaces/chatGPT-Telegram-bot/env
+# chatGPT-Telegram-bot
 
-
-
-
-
-
-![alt text]https://github.com/PallaviKharbanda/chatGPT-Telegram-bot/raw/main/Chatgpt_telegram_bot.png
+![](image/Chatgpt_telegram_bot.png)
 
 
 #conda init command gives base environment
